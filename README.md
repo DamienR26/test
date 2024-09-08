@@ -1,6 +1,6 @@
 <table>
   <tr>
-  <td style="width: 1300px; height: 1200px;">
+  <td style="width:1300; height:1200;">
       Voici un texte placé à gauche de l'image. Ce texte peut décrire l'image ou fournir d'autres informations en lien avec le projet.
     </td>
     <td>

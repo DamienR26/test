@@ -1,6 +1,6 @@
-#RRGGBB
+<p style="color:blue">
 # Analyser les performances de l'entreprise
-
+</p>
 ## Première étape : Collecte des données
 <table>
   <tr>
